@@ -8,5 +8,6 @@ namespace TestHubProject
 {
     internal class Class1
     {
+        public string ebalBcex;
     }
 }
